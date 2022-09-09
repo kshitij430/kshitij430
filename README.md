@@ -16,13 +16,6 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij430&langs_count=8&theme=radical">
-</p>
-
-<br />
-<br />
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kshitij430&theme=radical">
 </p>
 
@@ -33,8 +26,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kshitij430&background=000000&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF)">
 </p>
 
+<br />
+<br />
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij430&langs_count=8&layout=compact&theme=radical">
+</p>
 
 
 
